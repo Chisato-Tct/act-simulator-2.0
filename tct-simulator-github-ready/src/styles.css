@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+}
+input {
+  margin: 0.25rem;
+}
+.monthly-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.monthly-table th, .monthly-table td {
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+  text-align: right;
+}
+.monthly-table th {
+  background-color: #f0f0f0;
+}
